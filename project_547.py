@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/166_vwpbKw1HVf9ZTbvSNQjuhRTgH_z2H
 """
 
-# Let's install the relevant packages
-!pip install diffusers
-!pip install gradio -q
+# # Let's install the relevant packages
+# !pip install diffusers
+# !pip install gradio -q
 
 # Let's load the libraries
 from diffusers import StableDiffusionPipeline
